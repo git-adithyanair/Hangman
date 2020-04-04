@@ -53,4 +53,4 @@ The game is won when the word is guessed completely, or lost when the entire han
 
 ### Note
 
-If while attempting to make a guess by results in a NameError exception, ensure all letters (as well as 'end' to stop the game) are placed within single quotes.
+If while attempting to make a guess results in a NameError exception, ensure all letters (as well as 'end' to stop the game) are placed within single quotes.
